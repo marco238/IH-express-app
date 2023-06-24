@@ -1,0 +1,1 @@
+console.log('carga el script de la carpeta public');
